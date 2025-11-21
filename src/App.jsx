@@ -9,7 +9,7 @@ function App() {
         <div>
             <h1>Engineering College React Demo</h1>
             <Welcome name="Elima"/>
-            <Welcome name="Aigerim"/>
+            <Welcome name="Ailin"/>
             <Welcome name="Nurkamila"/>
         </div>
     );
